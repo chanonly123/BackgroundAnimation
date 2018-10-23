@@ -3,7 +3,7 @@
 //  Stupid
 //
 //  Created by Chandan Karmakar on 12/02/18.
-//  Copyright © 2018 Kreative Machinez. All rights reserved.
+//  Copyright © 2018 Chandan. All rights reserved.
 //
 
 import UIKit
